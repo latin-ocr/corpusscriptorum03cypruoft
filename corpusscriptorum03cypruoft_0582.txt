@@ -1,0 +1,22 @@
+P = codex olim Romanus, inde a Francisci primi aut Henrici secundi
+aetate Parisinus n. 1661
+
+corr = correctum est aut a librario aut manu antiqua, quae a librarii
+manu distingui non potest, aut rasura
+
+c et c‘ -- antiqui correctores codicis
+
+ 
+
+r = vir quidam doctus, qui codicem post Sabaei editionem ante
+Scaligeri conlationem correxit
+
+Sab = editio princeps Fausti Sabaei Romana a. 15433 in err = in
+erratis
+
+Gez = editio Sigismundi Gelenii Basileensis a. 1546
+
+Urs = Fulvius Ursinus et amici in editione Romana a. 1583
+
+Salm = editio Leidensis a. 1651 e recensione Claudii Salmasii
+
